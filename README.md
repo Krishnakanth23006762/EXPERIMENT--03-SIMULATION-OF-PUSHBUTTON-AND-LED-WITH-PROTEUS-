@@ -180,7 +180,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
-![exp 2 led](https://github.com/user-attachments/assets/3d9b64e4-f89b-4826-a062-db142985c4af)
+![373485792-eef122a2-075c-4c24-b803-d73997644445](https://github.com/user-attachments/assets/a5c066aa-cff5-43af-a6bc-bbd7e57cbfd5)
 
 
 
@@ -188,7 +188,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
 
- ![exp2 led layout](https://github.com/user-attachments/assets/bd91dc07-aa0d-45a0-b376-85b9b28e5bea)
+![image](https://github.com/user-attachments/assets/36e4714b-3e7f-4bda-a715-a0d0eb17ec36)
+
+![image](https://github.com/user-attachments/assets/52b6844c-0fa6-4293-ae1d-7ce3f0fd90dd)
+
 
  
  
